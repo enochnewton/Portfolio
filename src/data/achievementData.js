@@ -3,33 +3,23 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "Google Cloud certification",
+      title: "Google Coursera Certification",
       details:
-        "Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.",
+        "Google courses are intended to be the most advanced level of training available for Ui and ux.",
       date: "Aug 20, 2019",
-      field: "Automation",
+      field: "UX/UI",
       image:
         "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
     },
     {
       id: 2,
-      title: "AWS Certification",
+      title: "Udemy Certification",
       details:
-        "Validate technical skills and cloud expertise to grow your career and business.",
-      date: "Aug 20, 2019",
-      field: "Automation",
+        "It has been a great experience learning from Udemy. I have been able to learn a lot of new skills. Such as javascript advanced",
+      date: "Aug 20, 2022",
+      field: "Web Development",
       image:
-        "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-    },
-    {
-      id: 3,
-      title: "Professional Data Engineer Certification",
-      details:
-        "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
-      date: "Aug 20, 2019",
-      field: "Automation",
-      image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://images.unsplash.com/photo-1654277041028-ffa014fb301b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dWRlbXl8ZW58MHx8MHx8fDA%3D",
     },
   ],
 };

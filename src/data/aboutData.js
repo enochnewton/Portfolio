@@ -1,6 +1,9 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
-}
+  title: "Who I am",
+  description1: `Hello, I'm Enoch Kathiomi, a passionate and dedicated student with a major in computer science, specializing in web development and design. Currently pursuing my education at Riara University in Nairobi, I am driven by a deep fascination for technology and a love for creating innovative solutions.
+
+    As a responsible and orderly individual, I've cultivated a strong foundation in front-end technologies such as HTML, CSS, and JavaScript. My journey in web development includes obtaining certifications from FreeCodeCamp in Responsive Web Design and JavaScript Algorithms and Data Structures.`,
+  description2:
+    "In the dynamic world of web development, I thrive on continuous learning and problem-solving. I am eagerly anticipating my first work experience, bringing my skills and enthusiasm to contribute to real-world projects. My portfolio is a testament to my commitment to creating user-friendly and visually appealing web solutions.",
+  image: 2,
+};
